@@ -9,7 +9,7 @@ Repozitorij za zadatke sa vjezbi predmeta Digitalna logika
 
 [Predavanja 2020/21](https://edufit-my.sharepoint.com/:f:/g/personal/haris_kordic_edu_fit_ba/EkKiJ1Kw0OpOuAaSmoP73kIBVOOnenoPk6NIf0QpYmi52A?e=3yq0Kx)
 
-[Vjezbe 2020/21]()
+[Vjezbe 2020/21](https://edufit-my.sharepoint.com/:f:/g/personal/haris_kordic_edu_fit_ba/ErW95nXs4MNImZAzrnsvHZUB_k4KjVdOh0jXGep7tRAnsA?e=w51rQD)
 
 <hr>
 
