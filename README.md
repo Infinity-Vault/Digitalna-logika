@@ -1,2 +1,14 @@
 # Digitalna-logika
-Repozitorij za zadatke sa vjezbi predmeta Digitalna Logika 
+Repozitorij za zadatke sa vjezbi predmeta Digitalna logika 
+
+![](https://komarev.com/ghpvc/?username=Digitalna-logika&label=Broj+posjeta:)
+
+
+<hr>
+
+
+**Link za .py fajl svih zadataka i vjebi prof. Edina Čmanjčanin **
+
+[Vjezbe 2020/21]()
+
+<hr>
